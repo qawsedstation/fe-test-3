@@ -1,0 +1,30 @@
+input[type="text"] {
+  width: 150px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.loading {
+  position: absolute;
+  left: 120px;
+  top: -5px;
+  width: 100px;
+}
+
+
+.error-icon {
+  position: absolute;
+  left: 200px;
+  top: 25px;
+  width: 30px;
+}
+
+
+
+.success-icon {
+  position: absolute;
+  left: 200px;
+  top: 25px;
+  width: 30px;
+}
